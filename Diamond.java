@@ -1,4 +1,7 @@
-public class Diamond {
+/*
+ * developed by Akash modanwal
+ */
+public class Diamond { // pattern to print diamond
     public static void diamond(int n) {
        for(int i =1;i<=n;i++){
         for(int j = 1;j<=n-i;j++){
